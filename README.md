@@ -16,7 +16,7 @@ Menggunakan Komposer untuk instalasi laravel. Dapatkan Komposer [disini](https:/
 Use **GIT** untuk mengkloning repositori (Dapat mengunduh dari repositori juga)
 
 ```bash
-git clone https://github.com/johannasendi/larafirebase.git
+git clone https://github.com/johannasendi/Livewire-II
 ```
 
 Create .env file ( *copy the content from .env.example* !important )
@@ -34,6 +34,6 @@ Inisialisasi Firebase Config [lihat video](https://www.youtube.com/watch?v=75aEg
 ## Terima kasih telah mengunduh proyek ini!
 
 - Project Name: Larafirebase
-- Project URL: https://github.com/johannasendi/larafirebase
+- Project URL: https://github.com/johannasendi/Livewire-II
 - Author: Johan N
 - Author URL: https://github.com/johannasendi 
